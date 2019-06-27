@@ -21,3 +21,8 @@ flutter run --local-engine-src-path=/Users/aomashinku/Dev/flutter-engine/engine/
 ```
 
 [https://juejin.im/post/5c24acd5f265da6164141236](https://juejin.im/post/5c24acd5f265da6164141236)
+
+```
+./flutter/tools/gn --ios --unoptimized && ./flutter/tools/gn --unoptimized
+ninja -C out/ios_debug_unopt && ninja -C out/host_debug_unopt
+```
