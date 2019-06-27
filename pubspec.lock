@@ -98,14 +98,14 @@ packages:
   sky_engine:
     dependency: "direct overridden"
     description:
-      path: "/Users/aomashinku/Dev/flutter-engine/engine/src/out/ios_debug_unopt/gen/dart-pkg/sky_engine"
+      path: "/Users/aomashinku/Dev/lab/engine/src/out/ios_debug_unopt/gen/dart-pkg/sky_engine"
       relative: false
     source: path
     version: "0.0.99"
   sky_services:
     dependency: "direct overridden"
     description:
-      path: "/Users/aomashinku/Dev/flutter-engine/engine/src/out/ios_debug_unopt/gen/dart-pkg/sky_services"
+      path: "/Users/aomashinku/Dev/lab/engine/src/out/ios_debug_unopt/gen/dart-pkg/sky_services"
       relative: false
     source: path
     version: "0.0.99"

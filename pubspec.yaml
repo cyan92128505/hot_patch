@@ -72,6 +72,6 @@ flutter:
   # see https://flutter.dev/custom-fonts/#from-packages
 dependency_overrides:
   sky_engine:
-    path: /Users/aomashinku/Dev/flutter-engine/engine/src/out/ios_debug_unopt/gen/dart-pkg/sky_engine
+    path: /Users/aomashinku/Dev/lab/engine/src/out/ios_debug_unopt/gen/dart-pkg/sky_engine
   sky_services:
-    path: /Users/aomashinku/Dev/flutter-engine/engine/src/out/ios_debug_unopt/gen/dart-pkg/sky_services
+    path: /Users/aomashinku/Dev/lab/engine/src/out/ios_debug_unopt/gen/dart-pkg/sky_services
